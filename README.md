@@ -1,5 +1,7 @@
 # lang.js
 
+[![Visits Badge](https://badges.pufler.dev/visits/Bellisario/lang.js)](https://badges.pufler.dev)
+
 lang.js is a simple library that help you with multilanguage sites.
 
 <a href="#"><img src="https://raw.githubusercontent.com/Bellisario/lang.js/main/.github/images/navigator-lang.png" width="500"/></a>
