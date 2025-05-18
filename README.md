@@ -1,6 +1,10 @@
 # lang.js
 
-[![Visits Badge](https://badges.pufler.dev/visits/Bellisario/lang.js)](https://badges.pufler.dev)
+> [!NOTE]
+> This project was one of my first on GitHub and was an important part to learn more about JS, GitHub and opensource in general.\
+> \
+> Looking at this years after with tons more experience, I know no one (me included) would ever want to use something like this.\
+> I won't delete the repo 'cause it's part of my self-taught dev path, instead I'm going to _archive_ it.
 
 lang.js is a simple library that help you with multilanguage sites.
 
